@@ -1,0 +1,14 @@
+Q 1. What are Pull Requests used for?
+
+
+Q 2. Name 2 other examples of Version Control Systems apart from Git.
+
+
+Q 3. What is a repo and explain the difference between a local and remote one? 
+
+
+Q 4. Where would you find a local repo?
+
+
+Q 5. Is it normal to delete a branch after it is merged with the master?
+

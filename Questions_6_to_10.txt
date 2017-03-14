@@ -1,0 +1,14 @@
+Q 6. What git command would you use to move between branches?
+
+
+Q 7. Explain why pushing a branch to the remote repository before making a commit would cause problems?
+
+
+Q 8. What is Git's version of GitHub's Forking? 
+
+
+Q 9. What should everyone do when making a commit?
+
+
+Q 10. Which came first, Git or GitHub?
+

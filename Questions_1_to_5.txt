@@ -5,10 +5,12 @@ Q 2. Name 2 other examples of Version Control Systems apart from Git.
 A: GitHub or Subversion
 
 Q 3. What is a repo and explain the difference between a local and remote one? 
-
+A: A location where all files for particular projec is stored.
+  Remote: the place where your code is stored
+  Local: refers to a copy on your own installation that is a cache of the remote downloads, and also contains the temporary build artifacts that you have not yet released.
 
 Q 4. Where would you find a local repo?
-
+A: After you clone a repo from GitHub you will than have your local repo
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
-
+A: Yes

@@ -13,4 +13,4 @@ Q 4. Where would you find a local repo?
 A: After you clone a repo from GitHub you will than have your local repo
 
 Q 5. Is it normal to delete a branch after it is merged with the master?
-A: Yes
+A: Yes  DEFINITELY NOT 

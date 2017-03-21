@@ -1,5 +1,5 @@
 Q 1. What are Pull Requests used for?
-
+A: Pull requests let you tell others about changes you've pushed to a GitHub repository.
 
 Q 2. Name 2 other examples of Version Control Systems apart from Git.
 
